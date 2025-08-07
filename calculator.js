@@ -14,6 +14,10 @@ function division(a,b){
     return a/b;
 }
 
+function hello(){
+    console.log("hello");
+}
+
 console.log(addition(3,4,6));
 console.log(subtraction(6,2,2));
 console.log(multiply(4,2));
